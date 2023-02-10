@@ -28,3 +28,4 @@ function cliqueNoBotao(){
     console.log(cidade)
     buscarCidade(cidade)
 }
+//finalizado//
